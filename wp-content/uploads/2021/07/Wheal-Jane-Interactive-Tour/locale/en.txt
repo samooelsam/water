@@ -1,0 +1,36 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Wheal Jane Interactive Tour - Water Tech
+
+## Media
+
+### Title
+album_E878FE1A_F4E5_EEAA_41DD_59887CFDD529.label = WAMM Programme
+album_E878FE1A_F4E5_EEAA_41DD_59887CFDD529_0.label = WAMM Programme
+panorama_20D0F3CC_2A09_1CEA_41B0_0C969D10E214.label = Sludge Pumps-6
+panorama_20D7BCEB_2A09_64AD_41B0_58410C2CE1CB.label = Lime Tanks-2
+panorama_2155129E_2A09_7F66_41BF_5FB955D4D6AE.label = Divert to Dam-7
+panorama_85889417_8ADE_D7CB_41DA_70FA64FB9B1C.label = 5. Clarifier Tank
+panorama_8588C922_8ADE_B1C5_41D2_970C5BA76107.label = 3.Pre-Reaction / 4. Reaction Chambers
+panorama_8595E5A1_8ADE_50C7_41D9_2245111D4FB3.label = 9. Bissoe River
+panorama_85979588_8ADE_D0C4_41B9_513BBDFD31A3.label = 8. Clean Effluent Chamber
+panorama_8597C4F7_8ADE_504B_41CD_6FDE2E4F0DB2.label = 1. Mine Shaft
+panorama_9BE523D6_8ADE_704D_41DA_D931041A0DE7.label = Site Aerial
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_27CD4B24_2A09_6D5B_4177_D205F7CDA52A.url = //www.youtube.com/embed/kNknRor6Cnk?rel=0
+PopupWebFrameBehaviour_3B6A8896_2A19_27A3_41C3_BB17719932D2.url = //www.youtube.com/embed/VTZbk28l8QA?rel=0
+PopupWebFrameBehaviour_3ECB3DCB_2A1F_79A0_41B2_8C8E46F65240.url = //www.youtube.com/embed/UOqIrkdN2cw?rel=0
+PopupWebFrameBehaviour_B3E1B657_A065_EB37_41CB_430A3322F36E.url = //www.youtube.com/embed/4S7up91kWqo?rel=0
+PopupWebFrameBehaviour_BDA002B6_A064_6B08_41E0_09D8C9D8D23A.url = //www.youtube.com/embed/9kzeNG9ufG0?rel=0
+PopupWebFrameBehaviour_BDA2AE86_A065_DB08_41D3_710BAAF476DA.url = //www.youtube.com/embed/Pn_8HeZ7Pvk?rel=0
+PopupWebFrameBehaviour_BDA9DE00_A07C_5B09_41D0_9E91A2AC53E2.url = //www.youtube.com/embed/7H9s2FZUM0s?rel=0
+PopupWebFrameBehaviour_BE5BC099_A07C_E738_41CB_3B9073750EFE.url = //www.youtube.com/embed/sVkXEsCX_Mk?rel=0
+PopupWebFrameBehaviour_E9802273_F4E5_577B_41C7_EE77D7F417A9.url = https://www.johnfhuntregeneration.co.uk/wp-content/uploads/2021/07/index.html
